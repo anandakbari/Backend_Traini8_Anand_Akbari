@@ -40,7 +40,7 @@ export default function TrainingCenterList() {
   const fetchCenters = async (filterParams: typeof filters) => {
     try {
       setLoading(true);
-      let url = 'http://localhost:8080/api/training-centers';
+      let url = 'https://backendtraini8anandakbari-production-6e5c.up.railway.app/api/training-centers';
       
       const params = new URLSearchParams();
       if (filterParams.city) params.append('city', filterParams.city);

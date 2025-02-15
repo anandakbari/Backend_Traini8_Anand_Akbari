@@ -340,8 +340,8 @@ export default function TrainingCenterForm({ onSuccess }: TrainingCenterFormProp
             </Alert>
           )}
 
-          <Button type="submit" className="w-full">
-            Create Training Center
+          <Button type="submit" className="w-full" disabled={loading}>
+            {loading ? 'Creating...' : 'Create Training Center'}
           </Button>
         </form>
       </CardContent>

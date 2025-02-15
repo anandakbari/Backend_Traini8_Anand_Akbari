@@ -1,6 +1,6 @@
 import { TrainingCenter } from "@/types";
 
-const API_URL = 'http://localhost:8080/api/training-centers';
+const API_URL = 'https://backendtraini8anandakbari-production-6e5c.up.railway.app/api/training-centers';
 
 export const createTrainingCenter = async (data: Omit<TrainingCenter, 'id' | 'createdOn'>) => {
     try {
