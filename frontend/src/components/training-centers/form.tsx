@@ -103,7 +103,7 @@ export default function TrainingCenterForm({ onSuccess }: TrainingCenterFormProp
     }
 
     try {
-      const response = await fetch('http://localhost:8080/api/training-centers', {
+      const response = await fetch('https://backendtraini8anandakbari-production-6e5c.up.railway.app/api/training-centers', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
