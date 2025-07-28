@@ -9,7 +9,7 @@ A full-stack application for managing government-funded training centers. The sy
 
 - Backend hosted: [Railway Deployment](https://backendtraini8anandakbari-production-6e5c.up.railway.app)
 ![image](https://github.com/user-attachments/assets/c6a29180-8b5b-4214-adff-f46d43518cbc)
-dfasd
+
 
 
 ## Project Structure
