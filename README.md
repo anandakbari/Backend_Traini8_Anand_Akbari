@@ -1,7 +1,7 @@
 # Traini8 - Training Center Registry System
 
 A full-stack application for managing government-funded training centers. The system provides APIs for creating and retrieving training center information, with a user-friendly web interface. Check it out at [Live Site](https://backend-traini8-anand-akbari-nxodcmv3e-anand-akbaris-projects.vercel.app/)
-
+ddxcv
 ## Live Deployments
 - Full Demo Website: [Vercel Deployment](https://backend-traini8-anand-akbari-nxodcmv3e-anand-akbaris-projects.vercel.app/)
 ![image](https://github.com/user-attachments/assets/c0299154-4a60-4629-8b88-dc90d57c3acd)
